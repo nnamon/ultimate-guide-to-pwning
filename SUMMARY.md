@@ -46,6 +46,10 @@
     * [Overwrite .dtors Section](linuxexp/dtors.md)
     * [Magic libc Gadgets](linuxexp/magiclibc.md)
 
+### Web
+
+* [Cross-Site Scripting](web/xss.md)
+
 ### Cryptography
 
 * [Hashing](cryptography/hashing.md)
@@ -55,4 +59,6 @@
 
 * [Reverse Engineering and Exploitation](tools/re.md)
     * [IDA Pro](tools/idapro.md)
+    * [Binary Ninja](tools/binaryninja.md)
+    * [Pwntools](tools/pwntools.md)
 
