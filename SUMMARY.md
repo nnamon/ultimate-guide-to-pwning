@@ -5,7 +5,7 @@
 * [Introduction to the Guide](README.md)
 * [Setting Up Your Environment](environment/settingup.md)
 
-### Scripting
+### Scripting for CTFs
 
 * [Overview](combatscripting/overview.md)
 * [Basic File Operations](combatscripting/fileoperations.md)
