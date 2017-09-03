@@ -3,17 +3,26 @@
 ### Getting Started
 
 * [Introduction to the Guide](README.md)
-* [Setting Up Your Environment](environment/settingup.md)
+* [Quick Start](quickstart.md)
 
 ### Scripting for CTFs
 
 * [Overview](combatscripting/overview.md)
 * [Basic File Operations](combatscripting/fileoperations.md)
+* [Network Operations](combatscripting/network.md)
+* [Cryptography](combatscripting/cryptography.md)
+* [Starting Processes](combatscripting/processes.md)
 
-### Linux
+### Pwntools
+
+* [Overview](pwntools/overview.md)
+* [Workflow](pwntools/workflow.md)
+
+### Linux Basics
 
 * [Environment Setup](linux/environment.md)
 * [Basic Commands](linux/commands.md)
+* [procfs](linux/procfs.md)
 
 ### Linux (x86-64) Exploitation
 
@@ -35,7 +44,8 @@
 * [Format String Attacks](linuxexp/formatstring.md)
 * [Heap Based Corruption](linuxexp/heapoverflow.md)
     * [Use After Free](linuxexp/useafterfree.md)
-    * [Double Free](linux/doublefree.md)
+    * [Double Free](linuxexp/doublefree.md)
+    * [House of Spirit](linuxexp/houseofspirit.md)
 * [Techniques and Tricks](linuxexp/techniques.md)
     * [Return to Procedure Linkage Table (PLT)](linuxexp/plt.md)
     * [Global Offset Table Overwrite](linuxexp/got.md)
@@ -46,9 +56,14 @@
     * [Overwrite .dtors Section](linuxexp/dtors.md)
     * [Magic libc Gadgets](linuxexp/magiclibc.md)
 
+### Linux Privilege Escalation
+
+* Overview
+
 ### Web
 
 * [Cross-Site Scripting](web/xss.md)
+* [PHP](web/php.md)
 
 ### Cryptography
 

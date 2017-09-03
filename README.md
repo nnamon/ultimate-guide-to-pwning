@@ -2,8 +2,10 @@
 
 A comprehensive and growing textbook on topics in information security built by
 students at the National University of Singapore as part of the NUS Greyhats
-security interest group. It was started as a project by Jeremy Heng (@nn\_amon)
-as an effort to create a taxonomy of hacking knowledge.
+security interest group.
+
+It was started as a project by Jeremy Heng (@nn\_amon) as an effort to create a
+taxonomy of hacking knowledge.
 
 ## Introduction
 
