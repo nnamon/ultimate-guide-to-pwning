@@ -33,7 +33,7 @@
     * [No eXecute](linuxexp/nx.md)
     * [Stack Canary](linuxexp/canary.md)
     * [Fortify Source](linuxexp/fortify.md)
-    * [Position Indepedent Execution](linuxexp/pie.md)
+    * [Position Independent Executable](linuxexp/pie.md)
     * [Control Flow Integrity](linuxexp/cfi.md)
 * [Stack Based Corruption](linuxexp/stackoverflow.md)
     * [Jump to Shellcode](linuxexp/jumptoshellcode.md)
@@ -55,6 +55,7 @@
     * [Return to libc](linuxexp/ret2libc.md)
     * [Overwrite .dtors Section](linuxexp/dtors.md)
     * [Magic libc Gadgets](linuxexp/magiclibc.md)
+    * [File Stream Structure Corruption](linuxexp/filestream.md)
 
 ### Linux Privilege Escalation
 
