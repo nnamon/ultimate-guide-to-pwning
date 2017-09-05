@@ -61,6 +61,16 @@
 
 * Overview
 
+### Miscellaneous Exploitation
+
+* Overview
+* Bash
+    * General Tricks
+    * Shellshock
+* Python
+    * Sandbox Escapes
+    * Unsafe Deserialisation
+
 ### Web
 
 * [Cross-Site Scripting](web/xss.md)
@@ -78,3 +88,6 @@
     * [Binary Ninja](tools/binaryninja.md)
     * [Pwntools](tools/pwntools.md)
 
+#### Further Reading
+
+* [References](furtherreading/references.md)
