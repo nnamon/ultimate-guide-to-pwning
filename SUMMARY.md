@@ -61,6 +61,11 @@
 
 * Overview
 
+### Memory Allocators
+
+* jemalloc
+* dlmalloc
+
 ### Miscellaneous Exploitation
 
 * Overview
