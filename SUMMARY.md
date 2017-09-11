@@ -3,6 +3,7 @@
 ### Getting Started
 
 * [Introduction to the Guide](README.md)
+* [Overview](overview.md)
 * [Quick Start](quickstart.md)
 
 ### Scripting for CTFs
