@@ -2,6 +2,8 @@
 
 This page describes a map of all the chapters in the guide.
 
+## Chapters
+
 ### Scripting for CTFs
 
 Provides code samples in different programming languages to demonstrate common
