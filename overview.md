@@ -2,22 +2,24 @@
 
 This page describes a map of all the chapters in the guide.
 
-## Scripting for CTFs
+### Scripting for CTFs
 
-## Pwntools
+Provides code samples in different programming languages to demonstrate common objectives when scripting for CTFs.
 
-## Linux Basics
+### Pwntools
 
-## Linux (x86-64) Exploitation
+### Linux Basics
 
-## Linux Privilege Escalation
+### Linux (x86-64) Exploitation
 
-## Memory Allocators
+### Linux Privilege Escalation
 
-## Miscellaneous Exploitation
+### Memory Allocators
 
-## Web
+### Miscellaneous Exploitation
 
-## Cryptography
+### Web
 
-## Tools
+### Cryptography
+
+### Tools
