@@ -81,6 +81,9 @@
 
 * [Cross-Site Scripting](web/xss.md)
 * [PHP](web/php.md)
+    * Loose Comparisons
+    * Local File Inclusion
+    * Deserialisation
 
 ### Cryptography
 
