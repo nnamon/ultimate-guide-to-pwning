@@ -55,6 +55,7 @@
     * [linux.gate.so.1](linuxexp/linuxgate.md)
     * [Stack Protect Information Leak](linuxexp/stackprotectil.md)
     * [Return to libc](linuxexp/ret2libc.md)
+    * [Return to dl-resolve](linuxexp/ret2dlresolve.md)
     * [Overwrite .dtors Section](linuxexp/dtors.md)
     * [Magic libc Gadgets](linuxexp/magiclibc.md)
     * [File Stream Structure Corruption](linuxexp/filestream.md)
